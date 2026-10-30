@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created by: Alex OBrien
 # Created on: October 30, 2026
-# This program tells the user if the imputed year is a leap
+# This program tells the user if the inputed year is a leap
 # year or not.
 
 
